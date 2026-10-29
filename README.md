@@ -1,34 +1,146 @@
-<h1 align="center">Hi 👋, I'm Mohit Kumar Sharma</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+👋 Hi, I'm Mohit Kumar Sharma
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitoffical9572&label=Profile%20views&color=0e75b6&style=flat" alt="mohitoffical9572" /> </p>
+<h3 align="center">🚀 Full Stack Developer | Problem Solver | Tech Enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohitoffical9572" alt="mohitoffical9572" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mohitku95806254" target="blank"><img src="https://img.shields.io/twitter/follow/mohitku95806254?logo=twitter&style=for-the-badge" alt="mohitku95806254" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://mohit-s-portfolio-gamma.vercel.app/](https://mohit-s-portfolio-gamma.vercel.app/)
-
-- 💬 Ask me about **Full Stack Dev.**
-
-- 📫 How to reach me **bhumiharmohitsharma841222@gmail.com**
-
-- ⚡ Fun fact **I love playing Video Games**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mohitku95806254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohitku95806254" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohit kumar shamra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit kumar shamra" height="30" width="40" /></a>
-<a href="https://fb.com/mohit kumar sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohit kumar sharma" height="30" width="40" /></a>
-<a href="https://instagram.com/mohiiiiit_07x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohiiiiit_07x" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/platform🕹of🎮games" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="platform🕹of🎮games" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Building+Web+Applications+%F0%9F%92%BB;Turning+Ideas+into+Reality+%E2%9C%A8;Always+Learning+Something+New+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p align="center">
+<a href="https://mohit-s-portfolio-gamma.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://github.com/mohitoffical9572">
+<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="mailto:bhumiharmohitsharma841222@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitoffical9572&show_icons=true&locale=en&layout=compact" alt="mohitoffical9572" /></p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mohitoffical9572&label=PROFILE%20VIEWS&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohitoffical9572&show_icons=true&locale=en" alt="mohitoffical9572" /></p>
+💫 About Me
+🔭 I'm a passionate Full Stack Developer from India.
+🌱 I'm continuously learning new technologies and improving my development skills.
+💻 I enjoy building web applications and turning ideas into real-world projects.
+👨‍💻 Explore my projects: Portfolio Website
+💬 Ask me about Full Stack Development, Web Technologies, and Programming.
+📫 Reach me at **bhumiharmohitsharma841222@gmail.com**
+🎮 Fun fact: I love playing video games.
+⚡ My goal: Learn, build, improve, and contribute every day.
+🛠️ Tech Stack & Tools
+💻 Languages
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitoffical9572&" alt="mohitoffical9572" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,c,cpp,php" alt="Programming Languages"/>
+</p>
+
+🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,figma,framer" alt="Frontend Technologies"/>
+</p>
+
+⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" alt="Backend Technologies"/>
+</p>
+
+🗄️ Databases & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,firebase" alt="Databases and Cloud"/>
+</p>
+
+🔧 Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,arduino,androidstudio" alt="Development Tools"/>
+</p>
+
+📊 GitHub Analytics
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohitoffical9572&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" alt="GitHub Statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitoffical9572&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Most Used Languages"/>
+</p>
+
+<p align="center">
+<img width="49%" src="https://github-readme-streak-stats.demolab.com?user=mohitoffical9572&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Contribution Streak"/>
+</p>
+
+📈 Contribution Activity Graph
+
+<p align="center">
+<a href="https://github.com/mohitoffical9572">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitoffical9572&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=My%20GitHub%20Contribution%20Activity" alt="GitHub Activity Graph" width="100%"/>
+</a>
+</p>
+
+🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mohitoffical9572&theme=onestar&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" width="100%"/>
+</p>
+
+🐍 Watch My Contributions Get Eaten!
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/mohitoffical9572/mohitoffical9572/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%"/>
+</p>
+
+🚀 Featured Projects
+
+<p align="center">
+<a href="https://github.com/mohitoffical9572?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
+</a>
+<a href="https://mohit-s-portfolio-gamma.vercel.app/">
+<img src="https://img.shields.io/badge/View%20Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="View Portfolio"/>
+</a>
+</p>
+
+<!--
+Once you choose your best repositories, replace the placeholders below
+with actual repository names. Example: REPO_NAME_1 and REPO_NAME_2.
+-->
+
+<p align="center">
+<a href="https://github.com/mohitoffical9572/REPO_NAME_1">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mohitoffical9572&repo=REPO_NAME_1&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Featured Project 1"/>
+</a>
+<a href="https://github.com/mohitoffical9572/REPO_NAME_2">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mohitoffical9572&repo=REPO_NAME_2&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Featured Project 2"/>
+</a>
+</p>
+
+🌐 Connect With Me
+
+<p align="center">
+<a href="https://twitter.com/mohitku95806254">
+<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+</a>
+<a href="https://instagram.com/mohiiiiit_07x">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="mailto:bhumiharmohitsharma841222@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://github.com/mohitoffical9572">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+</p>
+
+💭 Developer Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Developer Quote"/>
+</p>
+
+<p align="center">
+<b>⭐ Thanks for visiting my profile! Have a great day and happy coding! 🚀</b>
+</p>
